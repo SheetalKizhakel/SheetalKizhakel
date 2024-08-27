@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=43d9d6&size=40&Center=true&vCenter=true&width=900&height=100&lines=<Hello%F0%9F%91%8B,+world!+/>;My+Name+is+Sheetal+Kizhakel.;I+Am+a+Btech+student+at+VIT+vellore.;Good+to+See+You+Here+!!!...)](https://github.com/UtkarshGupta17)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=43d9d6&size=40&Center=true&vCenter=true&width=900&height=100&lines=<Hello%F0%9F%91%8B,+world!+/>;My+Name+is+Sheetal+Kizhakel.;I+Am+a+Btech+student+at+VIT+vellore.;Good+to+See+You+Here+!!!...)](https://github.com/SheetalKizhakel)
 
 ---
 
